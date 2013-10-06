@@ -26,4 +26,5 @@ a = foo & bar
 
 puts a
 
+puts "What the..."
 
