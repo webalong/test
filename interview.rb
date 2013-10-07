@@ -1,6 +1,7 @@
 foo = 5
 bar = 12
 
+
 puts foo
 puts bar
 
@@ -26,5 +27,7 @@ a = foo & bar
 
 puts a
 
-puts "What the Heck?"
+puts "What the Heck is the deal?"
+
+puts "This is some new code..."
 
