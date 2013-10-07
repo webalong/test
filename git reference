@@ -1,4 +1,14 @@
+change to the correct directory where the files reside
  git add interview.rb
  git commit -m 'Comment goes here...'
  git push origin master
+ 
+ starting mysql:
+ mysql -u test
+ Then:
+ show databases;
+ Then:
+ use database_name;
+ Then:
+ exit
  
